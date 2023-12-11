@@ -98,7 +98,7 @@ There are no tests to run.
 
 ## 👥 Authors <a name="authors"></a>
 
-#### 👤 Noel FOKA
+#### 👤 Adeyemoi Dada
 
 
 - GitHub: [@yemidada](https://github.com/yemidada)
